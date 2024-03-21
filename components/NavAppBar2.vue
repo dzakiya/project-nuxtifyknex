@@ -33,6 +33,7 @@
       <v-list-item prepend-icon="mdi-bookmark-outline" to="/data-fetching/api-knex" title="API Knex Eksternal" color="primary" rounded="xl"></v-list-item>
       <v-list-item prepend-icon="mdi-bookmark-outline" to="/data-fetching/dataproduk-knex" title="API Knex Internal" color="primary" rounded="xl"></v-list-item>
       <v-list-item prepend-icon="mdi-bookmark-outline" to="/data-fetching/data-user" title="Data User" color="primary" rounded="xl"></v-list-item>
+      <v-list-item prepend-icon="mdi-bookmark-outline" to="/data-fetching/data-user2" title="Data User SIM RS" color="primary" rounded="xl"></v-list-item>
     </v-list>
     </v-navigation-drawer>  
 
