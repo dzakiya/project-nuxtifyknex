@@ -14,7 +14,7 @@ definePageMeta({
 
 export default {
   data: () => ({
-    itemsPerPage: 50,
+    itemsPerPage: 5,
     userSimRS: "",
     dataUser: [],
   }),
