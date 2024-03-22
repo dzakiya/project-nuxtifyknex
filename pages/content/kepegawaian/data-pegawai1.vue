@@ -9,7 +9,7 @@
 </template>
 <script>
 definePageMeta({
-  layout: "menu",
+  layout: "default",
 });
 
 export default {
